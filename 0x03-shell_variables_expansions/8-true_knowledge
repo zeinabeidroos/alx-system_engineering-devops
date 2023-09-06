@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($TRUEKNOWL EDGE+128))
